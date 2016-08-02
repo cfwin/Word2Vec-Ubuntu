@@ -1,6 +1,6 @@
 #Word2Vec-Ubuntu
 
-クリーンなUbuntu 14.04 LTSマシンで、日本語のWord2Vecを計算するスクリプト
+クリーンなUbuntu 14.04 LTS環境で日本語のWord2Vecを計算するスクリプト
 
 * 日本語Wikipedia記事データ使用
 * テキスト抽出は[wp2txt][https://github.com/yohasebe/wp2txt]を使用
